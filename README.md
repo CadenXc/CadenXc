@@ -7,4 +7,4 @@
 
 ---
 
-- My [Blog](https://cadenxc.wordpress.com/)
+- [my blog](https://cadenxc.com)
